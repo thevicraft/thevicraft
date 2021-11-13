@@ -2,7 +2,7 @@
 - 👀 I’m interested in minecraft, Youtube and Twitch
 - 🌱 I’m currently learning in a school (wow interesting!)
 - 💞️ I’m looking to collaborate on minecraft
-- 📫 How to reach me thevicraft911@gmail.com
+- 📫 How to reach me ???
 
 <!---
 thevicraft/thevicraft is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
