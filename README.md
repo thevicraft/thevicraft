@@ -11,5 +11,5 @@ https://www.youtube.com/channel/UCjiP-NZ-BqZiH9IlEW-shLw
 
 🦀 Discord
 
-https://discord.com/invite/fhAdBZEQ2J
+https://discord.gg/pXDxjKB7q3
 
