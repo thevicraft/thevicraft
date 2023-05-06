@@ -1,15 +1,13 @@
-- 👋 Hi, I’m thevicraft
-- 👀 I’m interested in minecraft, Youtube and Java!
-- 🌱 I’m currently learning in a school (wow interesting!)
-- 💞️ I’m currently very busy but I sometimes work on my active Project SimpleCalculator in Java, it's a very interesting project, don't forget to check it up!!
-- 📫 How to reach me ???
+- 👋 Hi, I’m **thevicraft**.
+- 👀 I’m a **hobby programmer**.
+- 🌱 I’m a **student**.
+- For more information watch *[this](https://www.youtube.com/watch?v=dQw4w9WgXcQ)*.
 
-🔴 Youtube
+- **Active projects**:
+    - **[Java-Pixel-Game](https://github.com/thevicraft/java-pixel-game)**
+    - **[Java-Pixel-Game Launcher](https://github.com/thevicraft/jpg-launcher)**
 
-https://www.youtube.com/channel/UCjiP-NZ-BqZiH9IlEW-shLw
+- 📫 Ways of social interacting:
 
-
-🦀 Discord
-
-https://discord.gg/pXDxjKB7q3
-
+🔴 [Youtube](https://www.youtube.com/channel/UCjiP-NZ-BqZiH9IlEW-shLw)
+🦀 [Discord](https://discord.gg/pXDxjKB7q3)
