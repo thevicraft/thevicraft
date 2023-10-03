@@ -11,5 +11,3 @@
 
 🔴 [Youtube](https://www.youtube.com/channel/UCjiP-NZ-BqZiH9IlEW-shLw)
 🦀 [Discord](https://discord.gg/pXDxjKB7q3)
-
-![Discord Shield](https://discordapp.com/api/guilds/890641498083831808/widget.png?style=shield)
